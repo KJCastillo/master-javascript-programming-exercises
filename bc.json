@@ -43,6 +43,166 @@
             "translations": [
                 "us"
             ]
+        },
+        {
+            "slug": "41-getLastElement",
+            "title": "41-getLastElement",
+            "path": "exercises/41-getLastElement",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "42-addToFront",
+            "title": "42-addToFront",
+            "path": "exercises/42-addToFront",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "43-addToBack",
+            "title": "43-addToBack",
+            "path": "exercises/43-addToBack",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "44-computeAreaOfARectangle",
+            "title": "44-computeAreaOfARectangle",
+            "path": "exercises/44-computeAreaOfARectangle",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "45-computePeremeterOfARectangle",
+            "title": "45-computePeremeterOfARectangle",
+            "path": "exercises/45-computePeremeterOfARectangle",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "46-computePerimeterOfATriangle",
+            "title": "46-computePerimeterOfATriangle",
+            "path": "exercises/46-computePerimeterOfATriangle",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "47-computeTripledAreaOfARectangle",
+            "title": "47-computeTripledAreaOfARectangle",
+            "path": "exercises/47-computeTripledAreaOfARectangle",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "48-computePerimeterOfACircle",
+            "title": "48-computePerimeterOfACircle",
+            "path": "exercises/48-computePerimeterOfACircle",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "49-computeAreaOfACircle",
+            "title": "49-computeAreaOfACircle",
+            "path": "exercises/49-computeAreaOfACircle",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "50-computePower",
+            "title": "50-computePower",
+            "path": "exercises/50-computePower",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "51-computeSquareRoot",
+            "title": "51-computeSquareRoot",
+            "path": "exercises/51-computeSquareRoot",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "52-doubleSquareRootOf",
+            "title": "52-doubleSquareRootOf",
+            "path": "exercises/52-doubleSquareRootOf",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "53-getLengthOfThreeWords",
+            "title": "53-getLengthOfThreeWords",
+            "path": "exercises/53-getLengthOfThreeWords",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "54-joinArrays",
+            "title": "54-joinArrays",
+            "path": "exercises/54-joinArrays",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "55-getElementsAfter",
+            "title": "55-getElementsAfter",
+            "path": "exercises/55-getElementsAfter",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "56-getElementsUpTo",
+            "title": "56-getElementsUpTo",
+            "path": "exercises/56-getElementsUpTo",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "57-getAllElementsButFirst",
+            "title": "57-getAllElementsButFirst",
+            "path": "exercises/57-getAllElementsButFirst",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "58-getAllElementsButLast",
+            "title": "58-getAllElementsButLast",
+            "path": "exercises/58-getAllElementsButLast",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "59-removeFromFront",
+            "title": "59-removeFromFront",
+            "path": "exercises/59-removeFromFront",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "60-removeFromBackOfNew",
+            "title": "60-removeFromBackOfNew",
+            "path": "exercises/60-removeFromBackOfNew",
+            "translations": [
+                "us"
+            ]
         }
     ]
 }
